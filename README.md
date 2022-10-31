@@ -1,4 +1,4 @@
-# omit.js
+# omit.js 文档
 
 [![](https://img.shields.io/travis/benjycui/omit.js.svg?style=flat-square)](https://travis-ci.org/benjycui/omit.js)
 [![npm package](https://img.shields.io/npm/v/omit.js.svg?style=flat-square)](https://www.npmjs.org/package/omit.js)

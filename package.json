@@ -1,5 +1,5 @@
 {
-  "name": "omit.js",
+  "name": "xiaolong.omit.js",
   "version": "2.0.2",
   "description": "Utility function to create a shallow copy of an object which had dropped some fields.",
   "main": "lib/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benjycui/omit.js.git"
+    "url": "git+https://github.com/Xiaolong145682/xiaolong.omit.js"
   },
   "keywords": [
     "object",
@@ -32,9 +32,9 @@
   "author": "Benjy Cui<benjytrys@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/benjycui/omit.js/issues"
+    "url": "https://github.com/Xiaolong145682/xiaolong.omit.js/issues"
   },
-  "homepage": "https://github.com/benjycui/omit.js#readme",
+  "homepage": "https://github.com/Xiaolong145682/xiaolong.omit.js#readme",
   "devDependencies": {
     "@umijs/fabric": "^2.2.2",
     "assert": "^1.4.1",
